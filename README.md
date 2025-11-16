@@ -44,3 +44,30 @@ I'm open to collaborating on:
 
 ## ⚡ Fun fact
 I enjoy translating complex epidemiological concepts into simple, reproducible analytical code.
+
+---
+
+---
+
+### 📊 GitHub Stats
+
+![AliReza's GitHub stats](https://github-readme-stats.vercel.app/api?username=alireza-taghizadeh80&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-taghizadeh80&layout=compact&theme=radical)
+
+---
+
+### 🛠️ Skills & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
+
+---
+
+### 🎓 GitHub Student Developer Pack
+![GitHub Student](https://img.shields.io/badge/GitHub%20Student-Blue?style=flat-square&logo=github)
